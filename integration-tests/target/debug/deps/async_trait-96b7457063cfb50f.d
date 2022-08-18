@@ -1,0 +1,10 @@
+/Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/integration-tests/target/debug/deps/libasync_trait-96b7457063cfb50f.dylib: /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs
+
+/Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/integration-tests/target/debug/deps/async_trait-96b7457063cfb50f.d: /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs /Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs
+
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs:
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs:
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs:
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs:
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs:
+/Users/dmitriysheleg/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs:

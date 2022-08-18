@@ -1,0 +1,41 @@
+{
+  "abi_schema_version": "0.1.0",
+  "metadata": {
+    "name": "hello_near",
+    "version": "1.0.0",
+    "authors": [
+      "Near Inc <hello@near.org>"
+    ]
+  },
+  "abi": {
+    "functions": [
+      {
+        "name": "get_greeting",
+        "is_view": true,
+        "result": {
+          "serialization_type": "json",
+          "type_schema": {
+            "type": "string"
+          }
+        }
+      },
+      {
+        "name": "set_greeting",
+        "params": [
+          {
+            "name": "message",
+            "serialization_type": "json",
+            "type_schema": {
+              "type": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "root_schema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "String",
+      "type": "string"
+    }
+  }
+}

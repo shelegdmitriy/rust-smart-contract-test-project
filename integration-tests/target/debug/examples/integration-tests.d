@@ -1,0 +1,1 @@
+/Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/integration-tests/target/debug/examples/integration-tests: /Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/integration-tests/src/tests.rs

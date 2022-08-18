@@ -1,0 +1,1 @@
+/Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/contract/target/wasm32-unknown-unknown/release/libhello_near.rlib: /Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/contract/src/lib.rs

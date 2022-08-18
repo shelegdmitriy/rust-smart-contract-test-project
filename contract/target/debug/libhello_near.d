@@ -1,0 +1,1 @@
+/Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/contract/target/debug/libhello_near.dylib: /Users/dmitriysheleg/Documents/projects/near/rust-smart-contract-test-project/contract/src/lib.rs
